@@ -4,10 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋🏽, I'm Jarry G Herrera</h1>
+<h3 align="center">I'm student of pragramation/h3>
 
-
-- 💬 Ask me about **JavaScripts, React, Tailwind.css and other topics related to frontend**
-
-- 📫 How to reach me **jarrygeremyherrera@gmail.com**
 
 
