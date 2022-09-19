@@ -4,7 +4,7 @@
 </div>
 
 <h1 align="center">Hi 👋🏽, I'm Jarry G Herrera</h1>
-<h3 align="center">I'm student of pragramation</h3>
+
 
 
 
