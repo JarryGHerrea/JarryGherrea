@@ -1,6 +1,6 @@
 
 <div align="center">
-<img  width=50% height=50% src="https://mh-1-stockagency.panthermedia.net/media/media_detail/0028000000/28536000/~vector-laptop-cartoon-isolated-design_28536667_detail.jpg" alt="banner" />
+<img  width=80% height=50% src="https://i.pinimg.com/736x/6a/bd/7b/6abd7b3f1d806fcc347311c52d71a8b8.jpg" alt="banner" />
 </div>
 
 <h1 align="center">Hi 👋🏽, I'm Jarry G Herrera</h1>
