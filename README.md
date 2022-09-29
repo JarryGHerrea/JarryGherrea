@@ -1,6 +1,6 @@
 
 <div align="center">
-<img  width=50% height=50% src="https://ik.imagekit.io/hoa6us8np/gummy-coding__1__LbafRPEaj.png?ik-sdk-version=javascript-1.4.3&updatedAt=1659103251029" alt="banner" />
+<img  width=50% height=50% src="https://mh-1-stockagency.panthermedia.net/media/media_detail/0028000000/28536000/~vector-laptop-cartoon-isolated-design_28536667_detail.jpg" alt="banner" />
 </div>
 
 <h1 align="center">Hi 👋🏽, I'm Jarry G Herrera</h1>
